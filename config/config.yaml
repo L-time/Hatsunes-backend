@@ -1,0 +1,11 @@
+# 数据库相关
+db:
+  host: 127.0.0.1 #数据库地址
+  port: 5432 #数据库端口
+  user: Hatsune #数据库用户名
+  password: 123456 #数据库密码
+  database: HatsuDB #数据库库名
+
+#程序日志相关
+log:
+  level: INFO #日志等级
